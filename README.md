@@ -4,7 +4,7 @@ A conversational HR assistant that answers questions **only** using information 
 
 | Chat Tab | Upload Document | Upload Document |
 |----------|-----------------|-----------------|
-| ![](docs/ui/chat_tab.png) | ![](docs/ui/upload_tab.png) | ![](docs/ui/Feedback_tab.png)
+| ![](docs/ui/chat_tab.png) | ![](docs/ui/upload_tab.png) | ![](docs/ui/feedback_tab.png)
 
 The system uses a Retrieval-Augmented Generation (RAG) pipeline:
 
