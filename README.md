@@ -2,6 +2,10 @@
 
 A conversational HR assistant that answers questions **only** using information from an uploaded HR policy PDF.
 
+| Chat Tab | Upload Document | Upload Document |
+|----------|-----------------|-----------------|
+| ![](docs/ui/chat_tab.png) | ![](docs/ui/upload_tab.png) | ![](docs/ui/Feedback_tab.png)
+
 The system uses a Retrieval-Augmented Generation (RAG) pipeline:
 
 1. Load and chunk the HR policy PDF  
