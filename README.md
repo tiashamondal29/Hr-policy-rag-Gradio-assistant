@@ -44,3 +44,14 @@ The assistant is exposed via a Gradio web UI with:
 - **LLM:** Gemini (`gemini-2.5-flash-lite`)
 
 ---
+## Quickstart
+
+```bash
+git clone https://github.com/tiashamondal29/Hr-policy-rag-Gradio-assistant.git
+cd Hr-policy-rag-Gradio-assistant
+python -m venv .venv
+source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+export GOOGLE_API_KEY="your_key_here"
+jupyter notebook Crafting_an_AI_Powered_HR_Assistant.ipynb
+---
