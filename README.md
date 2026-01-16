@@ -15,7 +15,7 @@ The assistant is exposed via a Gradio web UI with:
 - An **Upload Document** tab to index a new HR policy PDF
 - A **Feedback** tab to log user feedback for improvements :contentReference[oaicite:1]{index=1}
 
-> This project was built as a course-end project to demonstrate end-to-end application of modern AI tooling (RAG, embeddings, LLMs, Gradio UI) on a realistic HR use case. :contentReference[oaicite:2]{index=2}
+> This project was built as a course-end project to demonstrate end-to-end application of modern AI tooling (RAG, embeddings, LLMs, Gradio UI) on a realistic HR use case. 
 
 ---
 
